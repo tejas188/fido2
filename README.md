@@ -1,4 +1,3 @@
-# fido2
 # Solo Keys Firmware Build Guide
 
 This guide provides step-by-step instructions to build and flash custom firmware for Solo Keys FIDO2 security keys (STM32L432 target).
